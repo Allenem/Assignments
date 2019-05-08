@@ -45,6 +45,7 @@
 
 ## Emoji表情
 
+参考网址：https://www.webfx.com/tools/emoji-cheat-sheet/
 <p>将对应emoji表情的符号码复制后输入你的markdown文本即可显示emoji表情。<br>
 如<code>:blush:</code>，显示为:blush:</p>
 
